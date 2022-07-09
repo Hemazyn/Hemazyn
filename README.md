@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I`m Emmanuel from Nigeria, a passionate and energetic front-end web developer, who loves to implement new or latest DESIGNS to give the best services.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemazyn)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Hemazyn/Hemazyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
