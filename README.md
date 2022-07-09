@@ -1,20 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Emmanuel
+#### Front-end Web Developer
+![Front-end Web Developer](<a href="https://app.daily.dev/Hemazyn"><img src="https://api.daily.dev/devcards/faf4d4b3f8074f95b4c5295da2f2e9dd.png?r=ii4" width="400" alt="Emmanuel Tofunmi's Dev Card"/></a>)
 
 I`m Emmanuel from Nigeria, a passionate and energetic front-end web developer, who loves to implement new or latest DESIGNS to give the best services.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemazyn)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS /BOOTSTRAP / SAAS
 
-<!--
-**Hemazyn/Hemazyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
