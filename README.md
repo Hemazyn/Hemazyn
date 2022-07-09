@@ -1,6 +1,5 @@
-(<a href="https://app.daily.dev/Hemazyn"><img src="https://api.daily.dev/devcards/faf4d4b3f8074f95b4c5295da2f2e9dd.png?r=ii4" width="400" alt="Emmanuel Tofunmi's Dev Card"/></a>)
+<a href="https://app.daily.dev/Hemazyn"><img src="https://github.com/Hemazyn/Hemazyn/blob/main/Hemazyn%20(1).png" width="400" alt="Emmanuel Tofunmi's Dev Card"/></a>
 
-https://github.com/Hemazyn/Hemazyn/blob/main/Hemazyn%20(1).png
 
 ### Hi there 👋, Emmanuel
 #### Front-end Web Developer
