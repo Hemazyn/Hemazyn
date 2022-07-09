@@ -4,13 +4,13 @@
 # Emmanuel Tofunmi
 I`m Emmanuel from Nigeria, a passionate and energetic front-end web developer, who loves to implement new or latest DESIGNS to give the best services.
 
-##Skills and Experience
+## Skills and Experience
 * 💻 HTML CSS JAVASCRIPT
-*⚛️ REACT
-*🅱️ BOOTSTRAP
+* ⚛ REACT
+* 🅱 BOOTSTRAP
 * SAAS
 
-Skills: REACT / JS / HTML / CSS /BOOTSTRAP / SAAS
+<!-- Skills: REACT / JS / HTML / CSS /BOOTSTRAP / SAAS -->
 
 - 🔭 I’m currently working on mastering my web frameworks 
 
