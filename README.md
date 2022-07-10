@@ -2,7 +2,7 @@
 
 
 # Emmanuel Tofunmi
-I`m Emmanuel from Nigeria, a passionate and energetic front-end web developer, who loves to implement new or latest DESIGNS to give the best services.
+I`m Emmanuel from Nigeria, a passionate and energetic front-end web developer, who loves to implement new or latest web design features to give the best services.
 
 ## Skills and Experience
 * 💻 HTML CSS JAVASCRIPT
