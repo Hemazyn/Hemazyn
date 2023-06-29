@@ -1,8 +1,10 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Blessing Onuoha</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
+
 🔭 I’m currently working on **securing an Intern/Junior developer role**<br><br>👯 I’m looking to work with **people that are passionate about building innovative projects.**<br><br>📫 Reach me via **hemazyn@gmail.com**<br><br>⚡ Fun fact **Passionate Tech Lover**
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-tofunmi-b0187520b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@imanuel_tofunmi) 
 
 # 💻 Tech Stack:
