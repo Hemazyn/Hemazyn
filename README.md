@@ -1,3 +1,4 @@
+![MasterHead](https://tinyurl.com/34r6cj57)
 <h1 align="center">Hi 👋, I'm Emmanuel Tofunmi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
