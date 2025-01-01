@@ -1,4 +1,4 @@
-<img src="https://tinyurl.com/34r6cj57" alt="MasterHead" style="width:100%;"/>
+<img src="https://imgur.com/C4xtUPN" alt="MasterHead" style="width:100%;"/>
 <h1 align="center">Hi 👋, I'm Emmanuel Tofunmi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
